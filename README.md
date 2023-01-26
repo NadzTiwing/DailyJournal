@@ -1,0 +1,2 @@
+# DailyJournal
+Simple Diary app
